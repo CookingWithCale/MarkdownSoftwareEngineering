@@ -709,9 +709,9 @@
 			]
 		}
 	],
-	"documentation": "# License\n\nCopyright 2019 (C) [Your Name](https://your-company-name.github.io); all rights reserved (R).\n\nThis Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.\n",
+	"documentation": "# License\n\nCopyright 2019 © [Your Name](https://your-company-name.github.io); all rights reserved.\n\nThis Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.\n",
 	"author": "Your Name",
 	"company": "Your Company Name",
-	"copyright": "Copyright 2019 (C) Your Name; all rights reserved (R).",
+	"copyright": "Copyright 2019 © Your Name; all rights reserved.",
 	"version": "0.x"
 }

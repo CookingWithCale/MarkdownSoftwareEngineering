@@ -1,3 +1,9 @@
 # Project Roadmap
 
-Please see the main project repository [readme.md](../readme.md) for the project roadmap. More roadmap details can be found in the [StarUML](http://staruml.io/) file with the `.mdj` extension located in the root repo folder.
+Please see the main project repository [](../#Project-Roadmap) for the project roadmap.
+
+## License
+
+Copyright © 2020 [Kabuki Starship](https://kabukistarship.com).
+
+This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.

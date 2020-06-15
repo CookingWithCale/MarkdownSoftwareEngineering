@@ -1,22 +1,22 @@
 # Contributing Guide
 
-**1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/abc_org/xyz_project/issues).
+**1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/ABCOrg/XYZProject/issues).
 
-**2.** Open `/docs/BUG_REPORT_TEMPLATE.md` and copy it's contents to the clipboard.
+**2.** Open `/docs/bug_report_template.md` and copy it's contents to the clipboard.
 
 **3.** Create an issue, paste the template into the Issue body and fill it out.
 
 ## Feature Requests
 
-**1.** Same as the instructions for submitting a bug report except with using `/docs/FEATURE_REQUEST.md`.
+**1.** Same as the instructions for submitting a bug report except with using `/docs/feature_request.md`.
 
 ### Completing Issues
 
 **1.** Clone the repo and create a branch for the IssueNuber:
 
 ```Console
-git clone https://github.com/abc_org/xyz_project.git
-cd script2
+git clone https://github.com/ABCOrg/XYZProject.git
+cd Script2
 git checkout -b Issue123
 ```
 
@@ -24,11 +24,11 @@ git checkout -b Issue123
 
 ```Console
 git add --all
-git commit -m "module_id.Add feature XYZ. #123"
+git commit -m "ModuleID.Add feature XYZ. #123"
 git push origin Issue123
 ```
 
-**3.** Create a Pull Requesting using the `/docs/PULL_REQUEST_TEMPLATE.md`
+**3.** Create a Pull Requesting using the `/docs/pull_request_template`
 
 **4.** Get others to inspect your changes and merge the branch to the master.
 
@@ -37,6 +37,12 @@ git push origin Issue123
 ```Console
 git checkout -b Issue125
 git add --all
-git commit "module_id:Fix feature ABC. #125"
+git commit "ModuleID.Fix feature ABC. #125"
 git branch -d Issue123
 ```
+
+## License
+
+Copyright © 2020 [Kabuki Starship](https://kabukistarship.com).
+
+This file and the folder and repository it is contained in are private and contain intellectual property, trade secrets, copyrighted material, and other protected works, the IP, that are the property of the IP Owner. You must get explicit permission from the IP Owner to possess, view, modify, share, duplicate, discuss, or publicly display the IP.
