@@ -4,29 +4,29 @@ This folder contains standard templates for software engineering written in Mark
 
 ## Organization
 
- The directions for how to use the templates are stored in the [Astartup™ Cookbook](https://github.com/KabukiStarship/Astartup™.cookbook/tree/master/getting_started/markdown). There are different Markdown templates for different tasks:
+ The directions for how to use the templates are stored in the [Astartup™ Cookbook](https://github.com/AStarStartup/AstartupCookbook/tree/master/GettingStarted/Markdown). There are different Markdown templates for different tasks:
 
 * Markdown Software Engineering
-* [Markdown Game Design](https://github.com/KabukiStarship/markdown.game_dev)
-* [Markdown Cookbook](https://github.com/KabukiStarship/markdown.cookbook)
+* [Markdown Game Design](https://github.com/KabukiStarship/MrkdownGameDev)
+* [Markdown Cookbook](https://github.com/KabukiStarship/MarkdownCookbook)
 
 ### Document Templates
 
 * [Requirements Analysis Document Template](./Docs/RAD)
 * [Software Design Document Template](./Docs/SDD)
-* [GitHub Docs](./Docs/readme.md)
-  * [bug_report_template.md](./Docs/bug_report_template.md)
-  * [code_of_conduct.md](./Docs/code_of_conduct.md)
-  * [contributing.md](./Docs/contributing.md)
-  * [feature_request_template.md](./Docs/feature_request_template.md)
-  * [issue_template.md](./Docs/issue_template.md)
-  * [mission_and_vision.md](./Docs/mission_and_vision.md)
-  * [pull_request_template.md](./Docs/pull_request_template.md)
-  * [roadmap.md](./Docs/roadmap.md)
-* [Standards](./standards/readme.md)
-  * [change_control_procedure.md](./standards/change_control_procedure.md)
-  * [code_of_conduct.md](./standards/code_of_conduct.md)
-  * [secure_coding.md](./standards/secure_coding.md)
+* [GitHub Docs](./Docs)
+  * [bug_report_template](./Docs/bug_report_template)
+  * [code_of_conduct](./Docs/code_of_conduct)
+  * [Contributing](./Docs/Contributing)
+  * [feature_request_template](./Docs/feature_request_template)
+  * [issue_template](./Docs/issue_template)
+  * [mission_and_vision](./Docs/mission_and_vision)
+  * [pull_request_template](./Docs/pull_request_template)
+  * [Roadmap](./Docs/Roadmap)
+* [Standards](./Standards)
+  * [change_control_procedure](./Standards/ChangeControlProcedure)
+  * [code_of_conduct](./Standards/CodeOfConduct)
+  * [secure_coding](./Standards/SecureCoding)
 
 ## Mission and Vision
 
@@ -34,7 +34,7 @@ The mission of Markdown Software Engineering is to help you start out or get you
 
 ## MVP RoadMap
 
-***When you're first starting out your project, your roadmap should be here in the root `readme.md` file because people have very low tolerance for non-working code, they will just move on in search of the easy thing and you can't blame them, so if you're trying to woo contributors, you must do it with your Mission and vision, then immediately after show the action plan that someone else things is a good idea achievable, and worth their time to contribute too.***
+***When you're first starting out your project, your roadmap should be here in the root `readme` file because people have very low tolerance for non-working code, they will just move on in search of the easy thing and you can't blame them, so if you're trying to woo contributors, you must do it with your Mission and vision, then immediately after show the action plan that someone else things is a good idea achievable, and worth their time to contribute too.***
 
 We can achieve a Minimum Viable Product by completing the following project phases:
 
@@ -61,7 +61,7 @@ git clone https://github.com/KabukiStarship/MarkdownSoftwareEngineering.git
 
 **6.** To upload the files to the web, just upload them to your GitHub repo.
 
-**7.** If you would like to create a statically generated website from the Markdown files, check out [KabukiPress](https://github.com/KabukiStarship/kabukipress). We are seeking Modern Embedded-C++ code contributors.
+**7.** If you would like to create a statically generated website from the Markdown files, check out [KabukiPress](https://github.com/KabukiStarship/KabukiPress). We are seeking Modern Embedded-C++ code contributors.
 
 ***This template is not copyrighted. We're assuming you're making a commercial application so this is just an example strong closed-source license. If you are trying to create a source available license, which is the strongest open-source license, replace the license paragraph with "You must consult your personal license for permissions and restrictions."***
 

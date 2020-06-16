@@ -1,6 +1,6 @@
 # Docs
 
-This folder contains miscellaneous documentation. Please consult the root repo [](../) file for instructions to get started.
+This folder contains miscellaneous documentation. Please consult the root repo [ReadMe.md](../) file for instructions to get started.
 
 ## Documents
 
