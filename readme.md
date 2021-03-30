@@ -7,14 +7,14 @@ This folder contains standard templates for software engineering written in Mark
  The directions for how to use the templates are stored in the [Astartup™ Cookbook](https://github.com/AStarStartup/AstartupCookbook/tree/master/GettingStarted/Markdown). There are different Markdown templates for different tasks:
 
 * Markdown Software Engineering
-* [Markdown Game Design](https://github.com/KabukiStarship/MrkdownGameDev)
+* [Markdown Game Design](https://github.com/KabukiStarship/MarkdownGameDev)
 * [Markdown Cookbook](https://github.com/KabukiStarship/MarkdownCookbook)
 
 ### Document Templates
 
-* [Requirements Analysis Document Template](./Docs/RAD)
-* [Software Design Document Template](./Docs/SDD)
-* [GitHub Docs](./Docs)
+* [Requirements Analysis Document Template](./Docs/RAD/)
+* [Software Design Document Template](./Docs/SDD/)
+* [GitHub Docs](./Docs/)
   * [bug_report_template](./Docs/bug_report_template)
   * [code_of_conduct](./Docs/code_of_conduct)
   * [Contributing](./Docs/Contributing)
@@ -23,10 +23,10 @@ This folder contains standard templates for software engineering written in Mark
   * [mission_and_vision](./Docs/mission_and_vision)
   * [pull_request_template](./Docs/pull_request_template)
   * [Roadmap](./Docs/Roadmap)
-* [Standards](./Standards)
-  * [change_control_procedure](./Standards/ChangeControlProcedure)
-  * [code_of_conduct](./Standards/CodeOfConduct)
-  * [secure_coding](./Standards/SecureCoding)
+* [Standards](./Docs/Standards)
+  * [Change Control Procedure](./Docs/Standards/ChangeControlProcedure)
+  * [Code of Conduct](./Docs/Standards/CodeOfConduct)
+  * [Secure Coding](./Docs/Standards/SecureCoding)
 
 ## Mission and Vision
 
@@ -55,7 +55,7 @@ git clone https://github.com/KabukiStarship/MarkdownSoftwareEngineering.git
 
 **3.** We've found [Visual Studio Code](code.visualstudio.com) to the best Markdown editor. Open Visual Studio Code, right click on the Explorer, and click on Add Folder to Workspace, then point it to your project repo's root folder.
 
-**4.** Find and replace all instances of "Markdown Software Engineering" with your projects name, and find and replace all instances of "Your Name <<https://your-github-page.github.io>>" with your name and a pointer to your GitHub page. Please don't put your personal email on the copyright, you want to make them contact you through a website so you can keep your personal information private.
+**4.** Find and replace all instances of "Markdown Software Engineering" with your projects name, and find and replace all instances of "Cale McCollough <<https://your-github-page.github.io>>" with Cale McCollough and a pointer to your GitHub page. Please don't put your personal email on the copyright, you want to make them contact you through a website so you can keep your personal information private.
 
 **5.** Delete the lines in the License you don't need.
 
@@ -67,6 +67,6 @@ git clone https://github.com/KabukiStarship/MarkdownSoftwareEngineering.git
 
 ## License
 
-Copyright 2020 © Your Name <<https://your-github-page.github.io>>, the IP Owner; all rights reserved.
+Copyright 2021 © [Cale McCollough](https://cookingwithcale.org).
 
 This file and the folder and repository it is contained in are private and contain intellectual property, trade secrets, copyrighted material, and other protected works, the IP, that are the property of the IP Owner. You must get explicit permission from the IP Owner to possess, view, modify, share, duplicate, discuss, or publicly display the IP.
