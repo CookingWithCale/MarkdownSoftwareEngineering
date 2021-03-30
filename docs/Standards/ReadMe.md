@@ -1,6 +1,4 @@
-# IssueType Pull request result
-
-
+# Standards
 
 ## License
 

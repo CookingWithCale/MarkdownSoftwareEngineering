@@ -2,7 +2,9 @@
 
 ## [System Models](./)
 
-### Dynamic Models
+### Screens
+
+This folder contains mockups of the Screens for the GUI.
 
 ## License
 
